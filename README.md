@@ -1,10 +1,13 @@
 # Gemini Clone
 
-### 开启vite项目
+Gemini的克隆站
 
-```shell
-npm create vite@latest
-cd gemini-clone
-npm install
-```
+### Features
 
+无需科学上网即可与gemini对话
+
+### Preview
+
+
+
+![out](public/out.gif)
