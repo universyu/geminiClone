@@ -1,5 +1,5 @@
 async function run(prompt) {
-    const response = await fetch('http://127.0.0.1:3002/generate', {
+    const response = await fetch('http://10.249.8.149:3002/generate', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
