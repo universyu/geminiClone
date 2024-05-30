@@ -1,6 +1,6 @@
 
 async function run(prompt) {
-    const response = await fetch('https://10.249.8.149:3002/generate', {
+    const response = await fetch('https://10.249.8.149:443/generate', {
         method: 'POST',
         mode: 'cors',
         headers: {
